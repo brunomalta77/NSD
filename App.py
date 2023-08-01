@@ -21,8 +21,8 @@ lottie_coding_grave =load_lottieurl("https://assets4.lottiefiles.com/packages/lf
 
 
 #------loading the models-------
-scaler_loaded = joblib.load(r'C:\Users\Bruno\Desktop\Geral\Mestrado\research\Streamlit\standard_scaler.pkl')
-RF_loaded = joblib.load(r'C:\Users\Bruno\Desktop\Geral\Mestrado\research\Streamlit\random_forest_model.pkl')
+scaler_loaded = joblib.load(r'standard_scaler.pkl')
+RF_loaded = joblib.load(r'random_forest_model.pkl')
 
 # page config 
 st.set_page_config(page_title="My_App",page_icon="💤",layout="wide")
