@@ -1,0 +1,6 @@
+PIL 
+streamlit 
+requests
+streamlit_lottie 
+joblib
+pandas  
