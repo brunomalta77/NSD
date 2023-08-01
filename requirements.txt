@@ -3,4 +3,4 @@ requests
 streamlit_lottie 
 joblib
 pandas  
-sklearn
+scikit-learn
